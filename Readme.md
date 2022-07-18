@@ -2,6 +2,11 @@
 
 [![K-071.jpg](https://i.postimg.cc/wvYsLG7P/K-071.jpg)](https://postimg.cc/zLpB1pwS)
 
+## Paquetes recomendados
+
+- [Mac fonts](https://www.nerdfonts.com/font-downloads)
+- [Hack Nerd fonts](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip)
+
 ## Etiquetas
 ### [Form](https://github.com/adnksharp/wforms)
 Uso de formularios en HTML para obtener datos de una API.
