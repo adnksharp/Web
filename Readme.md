@@ -48,3 +48,7 @@ Mostrar la salida de expresiones y comandos de JavaScript en etiquetas de HTML.
 ### [Notes](https://github.com/adnksharp/wNotes)
 Aplicación web de notas sin base de datos.
 
+## Referencias
+[w3shools](https://www.w3schools.com/tags/default.asp)
+[Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
